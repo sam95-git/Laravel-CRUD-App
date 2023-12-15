@@ -2,12 +2,40 @@
 
 Welcome to my Laravel CRUD application! This project was created to explore and learn Laravel's features and best practices while implementing a basic CRUD (Create, Read, Update, Delete) functionality.
 
+## App UI
+
+### Home Page
+![Home Page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/Home.png)
+
+### Login and Registration
+<div style="display: flex; justify-content: space-between;">
+
+![Registration Page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/rgister.png)
+
+![Login page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/login.png)
+
+</div>
+
+### User Dashboard
+![User Dashboard](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/dashboard.png)
+
+### All Posts
+![posts page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/all-posts.png)
+
 ## Features
 
 - **Create:** Add new items to the database.
 - **Read:** View a list of all items in the database.
 - **Update:** Edit and update existing items.
 - **Delete:** Remove items from the database.
+
+In addition to basic CRUD operations, this Laravel CRUD application includes the following features:
+
+- **Authentication:** Secure user authentication has been implemented using Laravel's built-in authentication system. Users can register, log in, and log out.
+
+- **Access Control:** Role-based access control (RBAC) has been implemented to restrict access to certain features based on user roles. There are roles such as "admin," "editor," and "user," each with different levels of access.
+
+- **File Uploading:** The application supports file uploading. Users with the necessary permissions can upload files, and the files are stored securely on the server.
 
 ## Technologies Used
 
@@ -21,4 +49,4 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/your-laravel-crud.git
+   git clone git@github.com:sam95-git/Laravel-CRUD-App.git
