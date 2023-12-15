@@ -10,17 +10,17 @@ Welcome to my Laravel CRUD application! This project was created to explore and 
 ### Login and Registration
 <div style="display: flex; justify-content: space-between;">
 
-![Registration Page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/rgister.png)
+![Registration Page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/register.png)
 
-![Login page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/login.png)
+![Login page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/login.png)
 
 </div>
 
 ### User Dashboard
-![User Dashboard](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/dashboard.png)
+![User Dashboard](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/dashboard.png)
 
 ### All Posts
-![posts page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/all-posts.png)
+![posts page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/all-posts.png)
 
 ## Features
 
