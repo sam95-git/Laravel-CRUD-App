@@ -10,7 +10,7 @@ Welcome to my Laravel CRUD application! This project was created to explore and 
 ### Login and Registration
 <div style="display: flex; justify-content: space-between;">
 
-![Registration Page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/register.png)
+![Registration Page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/rgister.png)
 
 ![Login page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/login.png)
 
