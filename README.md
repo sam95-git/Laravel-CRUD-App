@@ -22,6 +22,9 @@ Welcome to my Laravel CRUD application! This project was created to explore and 
 ### All Posts
 ![posts page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/all-posts.png)
 
+### Edit and Delete Posts
+![edit posts page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/show-post.png)
+
 ## Features
 
 - **Create:** Add new items to the database.
