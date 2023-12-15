@@ -5,7 +5,7 @@ Welcome to my Laravel CRUD application! This project was created to explore and 
 ## App UI
 
 ### Home Page
-![Home Page](https://github.com/sam95-git/Laravel-CRUD-App/screenshots/Home.png)
+![Home Page](https://github.com/sam95-git/Laravel-CRUD-App/blob/master/screenshots/Home.png)
 
 ### Login and Registration
 <div style="display: flex; justify-content: space-between;">
