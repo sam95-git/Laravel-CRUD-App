@@ -53,3 +53,22 @@ Follow these steps to set up and run the project locally:
 
    ```bash
    git clone git@github.com:sam95-git/Laravel-CRUD-App.git
+
+2. Install dependencies
+
+    ```bash
+    npm install   
+    
+3. create a database and import the provided sql file, update database credentials in .env file 
+   
+   ```bash
+   https://github.com/sam95-git/Laravel-CRUD-App/blob/master/laravelapp.sql
+
+4. Run the application
+
+    ```bash
+    npm start      
+
+5. Access the application
+
+    Open your browser and go to http://localhost/yourfolder/public/
